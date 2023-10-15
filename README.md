@@ -1,2 +1,2 @@
-# joke-game-
+# 🎮 Joke Game
 just some simple games.
