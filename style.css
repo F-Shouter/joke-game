@@ -1,0 +1,30 @@
+#fieldset03 {
+    border: solid 5px gray;
+    border-radius: 35px;
+    margin: 15px;
+    position: relative;
+    right: 2%;
+    width: 350px;
+    height: 75px;
+    
+}
+#img02 {
+    width: 50px;
+}
+#img03 {
+    width: 60px;
+    position: absolute;
+    left: 69%;
+    margin: 2px;
+    
+}
+#fieldset04 {
+    border: solid 5px gray;
+    border-radius: 35px;
+    margin: 15px;
+    position: absolute;
+    left: 0%;
+    top: 18%;
+    width: 350px;
+    height: 530px;
+}
